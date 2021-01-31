@@ -1,0 +1,3 @@
+include ':spanim'
+include ':app'
+rootProject.name = "SpAnimation"
