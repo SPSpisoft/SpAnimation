@@ -1,6 +1,6 @@
 # SpAnimation
 
-Fork from daiminja Animation 
+Forked & Reset from daiminja Animation 
 
 
 	dependencies {
